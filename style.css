@@ -39,12 +39,12 @@ a:hover {
 .header-right {
     color: #E5E7EB;
     font-size: 18px;
-    font-weight: 500;
 }
 
 .header-left {
     display: flex;
     font-size: 24px;
+    color:#F9FAF8;
     font-weight: 700;
 }
 
@@ -120,3 +120,25 @@ button {
     text-align: center;
     font-size: 13px;
 }
+
+.two {
+    padding: 0px 200px 100px 200px;
+}
+
+.three {
+    background-color: #E5E7EB;
+    padding: 100px 270px 70px 270px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    margin: 0;
+}
+
+.thor {
+    text-align: right;
+    font-weight: 700;
+}
+
